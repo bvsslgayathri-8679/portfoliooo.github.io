@@ -1,0 +1,380 @@
+@import url('https://fonts.googleapis.com/css2?family=Pacifico&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Cinzel&family=Pacifico&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Parisienne&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Parisienne&family=Quattrocento&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Bad+Script&family=Parisienne&family=Quattrocento&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Bad+Script&family=Marck+Script&family=Parisienne&family=Quattrocento&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Source+Sans+Pro:ital@0;1&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Source+Sans+Pro:ital@0;1&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Merriweather:ital@1&family=Source+Sans+Pro:ital@0;1&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Rokkitt:wght@600&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Amiri:ital@1&family=Merienda&family=PT+Serif+Caption&family=Playball&family=RocknRoll+One&family=Rokkitt:wght@600&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Merienda&family=Rokkitt:wght@600&display=swap" rel="stylesheet');
+@import url('https://fonts.googleapis.com/css2?family=Merienda&family=PT+Serif+Caption&family=Playball&family=RocknRoll+One&family=Rokkitt:wght@600&display=swap" rel="stylesheet');
+body{
+	text-align: justify!important;
+	margin: 0px!important;
+	padding: 0px!important;;
+}
+/* .te{
+	background:url('https://cdn2.vectorstock.com/i/1000x1000/48/56/abstract-low-poly-brown-technology-background-vector-23254856.jpg');
+	background-attachment: relative;
+	background-repeat: no-repeat;
+	overflow: hidden;	
+	background-size: cover;
+
+} */
+nav{
+margin-right: 20px;
+
+}
+li{
+	float: left;
+}
+.card11{
+	text-align: center;
+}
+.intro{
+color: #F3DAC1;
+font-family: 'RocknRoll One', sans-serif;
+
+margin-top: 60px;
+text-align: justify;
+}
+.bb1{
+	margin-left: 30px;
+	justify-content: center;
+	display: flex;
+
+	align-items: center;
+}
+.baba{
+	color:white; border-spacing: 10px; 
+	font-size: 15px;
+	
+	margin: 5px;
+}
+a.hihi{
+	font-family: 'Playball', cursive;
+	color: white;
+	margin-left: 10px;
+	font-size: 2rem; 
+	text-align: justify;
+}
+.hire{
+	color: white;
+
+}
+/*a:link{
+	color:#face3c;
+}
+a:hover{
+	color: #e6005c;
+
+}
+a:active{
+	color: #ff0000;
+}
+a:visited{
+	color: #0000ff;
+}*/
+
+.navbar-nav { 
+            margin-left: auto;
+            font-size: 20px; 
+ } 
+
+.git{
+	margin-bottom: 40px;
+	margin-left:20px;
+
+}
+.navbar-light ,.navbar-brand{
+font-family: 'Source Sans Pro', sans-serif;
+	align-self: center;
+	position: relative;
+	font-weight: bolder;
+	font-stretch: expanded;
+	font-size: 15px;
+	color: #8c1aff
+}
+
+.name1{
+	color:#F7D6B5!important;
+	font-size: 40px;
+	font-family: 'Bad Script', cursive;
+
+	align-self: center;
+
+	position: relative;
+	font-stretch: expanded;
+}
+.col-align{
+  float: none;
+  margin-right: auto;
+  margin-left: auto;
+}
+
+.containerholder{
+	grid-column-gap: 1px;
+  grid-row-gap: 1px;
+}
+.align-gridcols{
+	font-size: 20px;
+font-family: 'Pacifico', cursive;
+}
+
+.links{
+	align-self: center;
+}
+
+
+
+
+.hd1{
+	background-image: url('https://wallpaperaccess.com/full/279547.jpg');
+	color: black;
+	background-size: cover;
+	background-position: center;
+	overflow-y: hidden;
+	overflow-x: hidden;
+	background-repeat: no-repeat;
+    
+
+
+}
+
+#links{
+	display: block;
+}
+body{
+	margin: 30px;
+	padding: 10px
+}
+/*footer{
+	margin: 30px;
+}*/
+
+
+.fa-lg {
+    font-size: 1.33333em;
+    line-height: .75em;
+    vertical-align: -.0667em;
+}
+.fab{
+	display: block;
+	    font-style: normal;
+    font-variant: normal;
+    text-rendering: auto;
+}
+p{
+	font-family: 'Merriweather', serif;
+	margin: 10px;
+	padding: 10px;
+
+}
+
+h2{
+	margin: 40px;
+	text-align: center;
+	font-family: 'Rokkitt', serif;
+	font-size: 40px!important;
+
+}
+
+.tec{
+	margin-bottom: 20px!important;
+	padding: 1px;
+
+}
+
+
+.r1{
+	justify-content: center;
+	
+}
+
+.tec{
+	margin: 20px;
+	grid-gap: 30px;
+	grid-column-gap: 30px;
+	display: grid;
+
+
+}
+
+.data{
+	
+	margin-top: 10px;
+	font-size: 17px;
+	font-family: 'Merienda', cursive;
+	color: gray;
+}
+
+.alig{
+	text-align: center;
+
+}
+
+.p1{
+	margin: 10px;
+	padding: 10px;
+}
+.t1{
+	margin: 10px;
+}
+.pp{
+
+	color: white;
+	font-size: 1rem;
+}
+
+.mm{
+	margin:2rem;
+	padding: 1rem;
+	align-items: center;
+}
+
+.card{
+	width: 33%;
+}
+img{
+	height: 220px;
+}
+.pro{
+/*	 background-image: linear-gradient(to bottom right,#3366ff, #ccccff);
+*/
+	background:url('images/bg.jpg');
+	background-repeat: no-repeat;
+	background-size: cover;
+
+}
+
+.col-lg-6 {
+    flex: 0 0 auto;
+    width: 33%;
+ }
+ .col-md-6 {
+    flex: 0 0 auto;
+    width: 33%;
+ }
+
+
+ .card{
+ 	margin: 0 auto; /* Added */
+        float: none; /* Added */
+        margin-bottom: 10px; /* Added */
+ 	width:33%;
+ 	align-items: center;
+ }
+/* .cc{
+ 	margin: 20px;
+ 	padding: 20px;
+ }*/
+.haha{
+	margin: 5px;
+	padding: 5px;
+}
+.add{
+font-family: 'Playball', cursive;
+
+}
+
+
+
+
+
+
+
+
+
+
+.proa{
+	color: blue;
+}
+.proa:hover{
+	color: yellow;
+}
+
+
+.socialmedia{
+	height: 2rem;
+	width: 2rem;
+
+}
+
+
+
+
+
+.foot{
+	font-size: 1rem!important;
+	margin: 0px!important;
+	color: black;
+	
+/*	    background: linear-gradient(
+180deg
+,rgba(0,0,1,0.5),rgba(0,0,3,0.25));
+	background-repeat: no-repeat;
+	background-position: relative;
+	overflow-x: hidden;
+	overflow-y: hidden;
+    background-size: cover;*/
+
+}
+.about{
+	padding: 10px;
+	margin: 10px;
+}
+
+.hel{
+	margin: 5px;
+
+}
+.ff{
+	margin: 20px;
+	padding: 10px;
+}
+
+.contact{
+	font-family: 'Original Surfer', cursive;
+}
+
+.fh{
+	font-family: 'Merriweather', serif;
+}
+
+.footercontent{
+
+    	font-family: 'Merriweather', serif;
+
+	font-size: 1.1rem!important;
+	font-family: 'Lora', serif;
+
+}
+.form-container{
+	border: 0px solid black;
+	padding: 30px 30px;
+-webkit-box-shadow: 0px -3px 26px 20px rgba(0,0,0,0.250);
+-moz-box-shadow: 0px -3px 26px 20px rgba(0,0,0,0.25);
+box-shadow: 0px -3px 26px 20px rgba(0,0,0,0.25);
+
+
+}
+.ppp-sm{
+    width: 90%;
+}
+.ppp-lg{
+    width: 45%
+}
+.ppp-md{
+    width: 60%;
+    text-align: center;
+}
+
+.hel{
+
+	margin: 15px;
+	padding: 10px;
+}
